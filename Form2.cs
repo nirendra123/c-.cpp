@@ -46,5 +46,10 @@ namespace Calculator
         {
 
         }
+
+        private void toolStripProgressBar1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
